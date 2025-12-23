@@ -1,15 +1,17 @@
-# Spark 编程实验（实验4）
+# 实验4:Spark 编程实验
 
 本仓库包含 Spark RDD / Spark SQL / MLlib 三部分实验代码与运行结果（输出文件在 `outputs/`）。
 
-- 实验报告：见 [Experiment_Report.md](Experiment_Report.md)
+- 实验报告：见 [实验报告.md](实验报告.md)
 - 代码：见 `spark_lab/`
 - 结果附件：见 `outputs/`
+- 结果截图：见 `screenshots/`
 
 ## 目录结构
 
 - `spark_lab/`：所有任务脚本与公共工具
-- `outputs/`：任务输出（题目要求的“附件结果”）
+- `outputs/`：任务输出文件
+- `screenshots/`:实验结果截图
 
 ## 运行环境（本次实验实际环境）
 
