@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local Spark/Hive/Derby artifacts (do not commit)
+spark-tmp/
+spark-warehouse/
+spark-metastore/
+metastore_db/
+derby.log
+
+# VS Code server/cache
+.vscode-server/
+
+# Spark distribution (environment-specific)
+tools/
+
+# Raw datasets (large; keep out of git)
+ccf_*.csv
+ccf_*.csv.gz
+
+# Logs
+outputs/*stderr*
+outputs/*stdout*
+outputs/*.log
